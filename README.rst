@@ -1,7 +1,5 @@
 RX004 Home
 ###############################################################################
 
-* `<https://ubinos-edu.github.io/rx004_home/>`_
-
-
+`<https://ubinos-edu.github.io/rx004_home>`_
 
