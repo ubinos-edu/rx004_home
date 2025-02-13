@@ -1,9 +1,0 @@
-.. _appendix:
-
-
-Appendix
-#####################################################################
-
-
-.. include:: appendix/appendix_1001_reStructuredText_basic.rst
-
