@@ -15,6 +15,12 @@ Technical reports
 
 -------------------------------------------------------------------------------
 
+.. include:: technical_report/technical_report_1025_how_to_use_vscode.rst
+
+.. vspace::
+
+-------------------------------------------------------------------------------
+
 .. include:: technical_report/technical_report_1020_rx004_library_user_guide.rst
 
 .. vspace::
