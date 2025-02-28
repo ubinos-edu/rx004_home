@@ -13,7 +13,11 @@ RX004 Home
 
    research_notes
 
+   seminar
+
    references
+
+   questions_and_answers
 
    appendix
 

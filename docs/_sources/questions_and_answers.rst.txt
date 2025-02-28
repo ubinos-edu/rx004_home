@@ -1,0 +1,12 @@
+.. _questions_and_answers:
+
+
+Questions and answers
+#####################################################################
+
+.. vspace::
+
+`RX004 Issues <https://github.com/ubinos-edu/rx004_home/issues?q=is%3Aissue%20>`_
+
+.. vspace::
+
