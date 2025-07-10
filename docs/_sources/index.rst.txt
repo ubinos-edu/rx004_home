@@ -1,11 +1,12 @@
 RX004 Home
 #####################################################################
 
-이곳에는 연구모임 RX004의 연구 과정과 결과의 기록이 담겨있습니다.
+연구모임 RX004
 
 .. toctree::
    :maxdepth: 3
    :caption: 목차:
+   :hidden:
 
    introduction
 
@@ -14,6 +15,8 @@ RX004 Home
    research_notes
 
    seminar
+
+   rx004_01
 
    references
 

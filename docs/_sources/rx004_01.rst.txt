@@ -1,0 +1,48 @@
+.. _rx004_01:
+
+
+Project RX0004-01
+#####################################################################
+
+.. vspace:: 1
+
+-------------------------------------------------------------------------------
+
+.. include:: technical_report/technical_report_004002_rx004_aws_setting_guide.rst
+
+.. vspace:: 1
+
+-------------------------------------------------------------------------------
+
+.. include:: technical_report/technical_report_004003_rx004_aws_cli_setting_guide.rst
+
+.. vspace:: 1
+
+-------------------------------------------------------------------------------
+
+.. include:: technical_report/technical_report_004004_rx004_dynamodb_and_access_policy_setting_guide.rst
+
+.. vspace:: 1
+
+-------------------------------------------------------------------------------
+
+.. include:: technical_report/technical_report_004005_rx004_iotcore_lorawan_gateway_setting_guide.rst
+
+.. vspace:: 1
+
+-------------------------------------------------------------------------------
+
+.. include:: technical_report/technical_report_004006_rx004_iotcore_lorawan_device_setting_guide.rst
+
+.. vspace:: 1
+
+-------------------------------------------------------------------------------
+
+.. include:: technical_report/technical_report_004008_rx004_amplify_sensor_data_view_deployment_guide.rst
+
+.. vspace:: 1
+
+-------------------------------------------------------------------------------
+
+.. vspace:: 1
+
