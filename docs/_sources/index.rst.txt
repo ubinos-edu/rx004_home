@@ -5,7 +5,7 @@ RX004 Home
 
 .. toctree::
    :maxdepth: 3
-   :caption: 목차:
+   :caption: Contents:
    :hidden:
 
    introduction
